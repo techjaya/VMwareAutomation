@@ -1,5 +1,0 @@
-dvSwitch-49137       datacenter-2         -                                        -                    -                    
-dvSwitch-Final       datacenter-23        ESXi51-49144.englab.brocade.com          vmnic8               -                    
-                                                                                   vmnic9               -                    
-                                          ESXi51-49145.englab.brocade.com          vmnic8               -                    
-                                                                                   vmnic9               -                    
