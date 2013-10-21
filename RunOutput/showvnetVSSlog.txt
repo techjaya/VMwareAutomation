@@ -1,0 +1,5 @@
+vSwitch0             datacenter-2         ESX41-12752.englab.brocade.com           vmnic0               -                    
+                     datacenter-23        ESXi51-49144.englab.brocade.com          vmnic0               -                    
+                                          ESXi51-49145.englab.brocade.com          vmnic0               -                    
+                                          ESXi51-49146.englab.brocade.com          vmnic0               -                    
+                                          ESXi51-49147.englab.brocade.com          vmnic0               -                    

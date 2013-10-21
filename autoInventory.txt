@@ -1,0 +1,87 @@
+switchList		1	10.20.49.234
+vCenteripList		1	10.24.7.86
+vCenternameList		1	vC
+unameList		1	administrator
+passwordList		1	pass
+datacenterList		1	StarlifterDC
+hostList		2	10.24.7.89 10.24.7.90
+10.24.7.89		6	vmnic8	vmnic9	vmnic10	vmnic11 vmnic4 vmnic5
+10.24.7.90		6	vmnic8	vmnic9	vmnic10	vmnic11 vmnic4 vmnic5
+10.24.7.89		6	139/3/33 139/3/34 139/6/31 139/2/31 139/2/32 139/2/33
+10.24.7.90		6	139/3/33 139/3/34 139/6/31 139/2/31 139/2/32 139/2/33
+datastoreList		2	datastore49146 datastore49147
+vswitchList		3	vSwitch101 vSwitch102 vSwitch103
+vSwitch101		1	vmnic8
+vSwitch102		1	vmnic9
+vSwitch103		2	vmnic10	vmnic11
+vSwitch101		2	stdpg101 stdpg102
+vSwitch102		2	stdpg103 stdpg104
+vSwitch103		2	stdpg105 stdpg106
+vSwitch101		2	101	102
+vSwitch102		2	103	104
+vSwitch103		2	101	102
+dvswitchList		2	dvSwitch101 dvSwitch102
+dvSwitch101		1	vmnic4
+dvSwitch102		1	vmnic5
+dvSwitch101		2	dvpg101	dvpg102
+dvSwitch102		2	dvpg103	dvpg104
+dvSwitch101		2	101	102
+dvSwitch102		2	103	104
+dvSwitch101		1	cdp
+dvSwitch102		1	lldp
+vmList 			10
+stdvnicList		2 	stdpg101 stdpg105
+dvnicList		2	dvpg101	dvpg104
+addpgList		255
+pg			1	vSwitch101
+#addpgList		1	VM-Network
+VM-Network		1	vSwitch101
+#addpgList		10	addpg1 addpg2 addpg3 addpg4 addpg5 addpg6 addpg7 addpg8 addpg9 addpg10
+addpg1			1	vSwitch101
+addpg2			1	vSwitch101
+addpg3			1	vSwitch101
+addpg4			1	vSwitch101
+addpg5			1	vSwitch101
+addpg6			1	vSwitch101
+addpg7			1	vSwitch101
+addpg8			1	vSwitch101
+addpg9			1	vSwitch101
+addpg10			1	vSwitch101
+adddvpgList		30
+dvpg			1	dvSwitch101
+#adddvpgList		2	dvaddpg101 dvaddpg102
+dvaddpg101		1	dvSwitch101
+dvaddpg102		1	dvSwitch102
+#addpgvlanList		20	111 222 333 444 555 666 777 888 999 1000 101 102 103 104 105 106 107 108 109 110
+addpgvlanList		1	111
+adddvpgvlanList		3	0-4 10-12 30-32
+addstdvmkList		3	
+#changestdvnicList	20	cp1 cp2 cp3 cp4 cp5 cp6 cp7 cp8 cp9 cp10 cp11 cp12 cp13 cp14 cp15 cp16 cp17 cp18 cp19 cp20
+cp1			1	vSwitch101
+cp2			1	vSwitch101
+cp3			1	vSwitch101
+cp4			1	vSwitch101
+cp5			1	vSwitch101
+cp6			1	vSwitch101
+cp7			1	vSwitch101
+cp8			1	vSwitch101
+cp9			1	vSwitch101
+cp10			1	vSwitch101
+cp11			1	vSwitch101
+cp12			1	vSwitch101
+cp13			1	vSwitch101
+cp14			1	vSwitch101
+cp15			1	vSwitch101
+cp16			1	vSwitch101
+cp17			1	vSwitch101
+cp18			1	vSwitch101
+cp19			1	vSwitch101
+cp20			1	vSwitch101
+deletehostList		1	10.20.49.144
+deletevssList		2	vSwitch101 vSwitch102
+deletedvsList		2	dvSwitch101 dvSwitch102
+addnicList		1	vmnic10
+addcdpvssList		1	vSwitch10
+addcdpdvsList		1	dvSwitch1
+addlldpdvsList		1	dvSwitch1
+deletecdpvssList	1	vSwitch

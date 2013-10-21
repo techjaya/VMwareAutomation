@@ -1,0 +1,63 @@
+ESX41-12752.englab.brocade.com           datacenter-2         vmnic0               e4:1f:13:43:95:5c    vSwitch0             -                    
+                                                              vmnic1               e4:1f:13:43:95:5e    -                    -                    
+                                                              vmnic2               00:05:33:26:2d:90    -                    -                    
+                                                              vmnic3               00:05:33:26:2d:91    -                    -                    
+                                                              vmnic4               00:05:1e:eb:f9:93    -                    -                    
+                                                              vmnic5               00:05:1e:eb:f9:94    -                    -                    
+                                                              vmnic6               00:1b:21:90:70:38    -                    -                    
+                                                              vmnic7               00:1b:21:90:70:39    -                    -                    
+                                                              vmnic8               00:1b:21:90:70:3a    -                    -                    
+                                                              vmnic9               00:1b:21:90:70:3b    -                    -                    
+                                                              vusb0                e6:1f:13:48:84:53    -                    -                    
+ESXi51-49144.englab.brocade.com          datacenter-23        vmnic0               e4:1f:13:44:9c:e0    vSwitch0             -                    
+                                                              vmnic1               e4:1f:13:44:9c:e2    -                    -                    
+                                                              vmnic10              00:05:33:26:98:7e    -                    -                    
+                                                              vmnic11              00:05:33:26:98:7f    -                    -                    
+                                                              vmnic2               e4:1f:13:d5:2e:e4    -                    -                    
+                                                              vmnic3               e4:1f:13:d5:2e:e6    -                    -                    
+                                                              vmnic4               00:1b:21:8f:46:a4    -                    -                    
+                                                              vmnic5               00:1b:21:8f:46:a5    -                    -                    
+                                                              vmnic6               00:1b:21:8f:46:a6    -                    -                    
+                                                              vmnic7               00:1b:21:8f:46:a7    -                    -                    
+                                                              vmnic8               00:05:33:26:98:5a    dvSwitch-Final       -                    
+                                                              vmnic9               00:05:33:26:98:5b    dvSwitch-Final       -                    
+                                                              vusb0                e6:1f:13:49:89:3b    -                    -                    
+ESXi51-49145.englab.brocade.com          datacenter-23        vmnic0               e4:1f:13:44:9e:70    vSwitch0             -                    
+                                                              vmnic1               e4:1f:13:44:9e:72    -                    -                    
+                                                              vmnic10              00:05:33:26:97:de    -                    -                    
+                                                              vmnic11              00:05:33:26:97:df    -                    -                    
+                                                              vmnic2               e4:1f:13:d5:30:2c    -                    -                    
+                                                              vmnic3               e4:1f:13:d5:30:2e    -                    -                    
+                                                              vmnic4               00:1b:21:8f:48:50    -                    -                    
+                                                              vmnic5               00:1b:21:8f:48:51    -                    -                    
+                                                              vmnic6               00:1b:21:8f:48:52    -                    -                    
+                                                              vmnic7               00:1b:21:8f:48:53    -                    -                    
+                                                              vmnic8               00:05:33:26:98:d2    dvSwitch-Final       -                    
+                                                              vmnic9               00:05:33:26:98:d3    dvSwitch-Final       -                    
+                                                              vusb0                e6:1f:13:49:89:93    -                    -                    
+ESXi51-49146.englab.brocade.com          datacenter-23        vmnic0               e4:1f:13:44:9d:10    vSwitch0             -                    
+                                                              vmnic1               e4:1f:13:44:9d:12    -                    -                    
+                                                              vmnic10              00:05:33:26:97:fe    -                    -                    
+                                                              vmnic11              00:05:33:26:97:ff    -                    -                    
+                                                              vmnic2               e4:1f:13:d5:2f:5c    -                    -                    
+                                                              vmnic3               e4:1f:13:d5:2f:5e    -                    -                    
+                                                              vmnic4               00:1b:21:8f:46:74    -                    -                    
+                                                              vmnic5               00:1b:21:8f:46:75    -                    -                    
+                                                              vmnic6               00:1b:21:8f:46:76    -                    -                    
+                                                              vmnic7               00:1b:21:8f:46:77    -                    -                    
+                                                              vmnic8               00:05:33:26:98:9a    -                    -                    
+                                                              vmnic9               00:05:33:26:98:9b    -                    -                    
+                                                              vusb0                e6:1f:13:49:89:f7    -                    -                    
+ESXi51-49147.englab.brocade.com          datacenter-23        vmnic0               e4:1f:13:44:9e:b0    vSwitch0             -                    
+                                                              vmnic1               e4:1f:13:44:9e:b2    -                    -                    
+                                                              vmnic10              00:05:33:26:97:ce    -                    -                    
+                                                              vmnic11              00:05:33:26:97:cf    -                    -                    
+                                                              vmnic2               e4:1f:13:d5:2f:b4    -                    -                    
+                                                              vmnic3               e4:1f:13:d5:2f:b6    -                    -                    
+                                                              vmnic4               00:1b:21:8f:4e:10    -                    -                    
+                                                              vmnic5               00:1b:21:8f:4e:11    -                    -                    
+                                                              vmnic6               00:1b:21:8f:4e:12    -                    -                    
+                                                              vmnic7               00:1b:21:8f:4e:13    -                    -                    
+                                                              vmnic8               00:05:33:26:98:0a    -                    -                    
+                                                              vmnic9               00:05:33:26:98:0b    -                    -                    
+                                                              vusb0                e6:1f:13:49:8a:93    -                    -                    

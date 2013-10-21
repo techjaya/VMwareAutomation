@@ -1,0 +1,13 @@
+CentOS-Production    datacenter-2         00:50:56:8e:00:50    10.20.49.222,fec0:60:69bc:84:250:56ff:fe8e:50,fe80::250:56ff:fe8e:50 ESX41-12752.englab.brocade.com           
+Client               datacenter-23        00:50:56:8d:0d:0f    200.200.200.98                           ESXi51-49145.englab.brocade.com          
+DB-DSL-144           datacenter-23        00:50:56:8e:73:21    -                                        ESXi51-49144.englab.brocade.com          
+DB-DSL-146           datacenter-23        00:50:56:a4:44:3b    -                                        ESXi51-49146.englab.brocade.com          
+DBServer             datacenter-23        00:50:56:bc:f4:83    -                                        ESXi51-49144.englab.brocade.com          
+GREEN-DB-Server      datacenter-23        00:50:56:8d:6f:23    -                                        ESXi51-49144.englab.brocade.com          
+NAS-Appliance        datacenter-23        00:50:56:8d:65:70    -                                        ESXi51-49144.englab.brocade.com          
+Ubuntu-147           datacenter-23        00:50:56:8e:3a:e2    -                                        ESXi51-49145.englab.brocade.com          
+                                          00:50:56:8e:69:f3    -                                        ESXi51-49145.englab.brocade.com          
+WEB-CentOS-44        datacenter-23        00:50:56:8e:57:c4    200.200.200.87,fe80::250:56ff:fe8e:57c4  ESXi51-49144.englab.brocade.com          
+WEB-CentOS-45        datacenter-23        00:50:56:8d:53:6d    10.24.7.50,fe80::250:56ff:fe8d:536d      ESXi51-49145.englab.brocade.com          
+WEB-DSL-147          datacenter-23        00:50:56:a4:78:2f    -                                        ESXi51-49147.englab.brocade.com          
+Windows-vCenter-147  datacenter-23        00:50:56:8d:38:82    -                                        ESXi51-49147.englab.brocade.com          
